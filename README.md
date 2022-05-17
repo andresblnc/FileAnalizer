@@ -1,0 +1,2 @@
+# Text file analizer. 
+This program is a simple text file analizer, comparing the number each letter appears in each text file. If the files have the same letters that means the files are the same, this way we can tell if two files are equal even if the letter are in different order.
